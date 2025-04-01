@@ -8,4 +8,7 @@ redirect_from:
 ---
 
 
-![This is a gif](../files/TaoHuaYuanJi.gif)
+This is a gif:A breif view of my 2D interactive multi-ending game
+![unable to load gif](../files/TaoHuaYuanJi.gif "Taohuayuanji")
+
+<br><br><br>
