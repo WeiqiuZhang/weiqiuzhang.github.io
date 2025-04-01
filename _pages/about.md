@@ -7,10 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-<body>
-    <h1>Welcome to My Website</h1>
-    <p>Here is an example image:</p>
-    <img src="../files/TaoHuaYuanJi.gif" alt="Example Image">
-</body>
 
 ![This is a gif](../files/TaoHuaYuanJi.gif)
