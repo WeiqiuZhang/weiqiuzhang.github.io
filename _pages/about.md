@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "MA student at EdUHK & Former Primary School Teacher & Interested in Educational Technology"
 author_profile: true
 redirect_from: 
   - /about/
