@@ -7,4 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-![https://github.com/WeiqiuZhang/weiqiuzhang.github.io/tree/master/files/TaoHuaYuanJi.gif](This is a gif)
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>Here is an example image:</p>
+    <img src="../files/TaoHuaYuanJi.gif" alt="Example Image">
+</body>
+
+![This is a gif](../files/TaoHuaYuanJi.gif)
