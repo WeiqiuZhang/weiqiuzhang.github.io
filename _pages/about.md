@@ -11,7 +11,7 @@ redirect_from:
 
 This is a gif:A breif view of my 2D interactive multi-ending game
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="../files/TaoHuaYuanJi.gif" alt="Sample_GIF" style="max-width: 100%; height: auto;">
+    <img src="../files/TaoHuaYuanJi.gif" alt="Sample_GIF" style="width: 100%; height: auto;">
 </div>
 
 <br><br><br>
