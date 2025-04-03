@@ -9,9 +9,10 @@ redirect_from:
 
 
 
-This is a breif view of my first 2D interactive multi-ending game,*Taohuayuanji*, by hovering and clicking the mouse, players can gradually unlock story, immersively understanding the background and plot of the game.
+This is a breif view of my first 2D interactive multi-ending game,*Taohuayuanji*. By hovering and clicking the mouse, players can gradually unlock story, immersively understanding the background and plot of the game.
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="../files/TaoHuaYuanJi.gif" alt="Sample_GIF" style="width: 100%; height: auto;">
 </div>
-
+Here are the endings and extra story:
+南柯一梦:理想社会是否只存在于人们的想象中? Does the **utopian** society only exist in imagination?
 <br><br><br>
