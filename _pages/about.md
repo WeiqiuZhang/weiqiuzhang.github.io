@@ -10,6 +10,6 @@ redirect_from:
 
 
 This is a gif:A breif view of my 2D interactive multi-ending game
-![unable to load gif](../files/TaoHuaYuanJi.gif "Taohuayuanji"){ style="transform: scale(1.5);" }
+<img src="../files/TaoHuaYuanJi.gif" alt="Sample_GIF" style="transform: scale(1.5);">
 
 <br><br><br>
