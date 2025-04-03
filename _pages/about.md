@@ -9,12 +9,16 @@ redirect_from:
 
 ## About me
 
-Hi! I am Weiqiu ZHANG, an enthusiast of Educational Research, in particular EduTech (Educational Technology) & Game-Based Learning & Community Service Learning.
+Hi! I am Weiqiu ZHANG, an enthusiast of Educational Research, in particular Experiential Learning & Digital Game-Based Learning & Ecological Literacy.
 
 I got my MA degree from [The Education University of Hong Kong](https://www.eduhk.hk/en/), my BA degree from [Northwest Normal University](https://en.wikipedia.org/wiki/Northwest_Normal_University) where I got the *Teacher's Qualification of Senior Secondary School* for China Mainland.
 
-I was also a former K-12 teacher for Chinese Subject; the time in *Hualin Township Central School* with left-behind students and ethnic minority students became an unforgettable memory of mine: below
+I was also a former K-12 teacher for Chinese Subject; the time in *Hualin Township Central School* with left-behind students and ethnic minority students became an unforgettable memory of mine: below is a photo of my class there.  
 
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="../files/hualin.jpg" alt="Sample_GIF" style="width: 100%; height: auto;">
+</div>
+<br>
 ## Projects
 
 ### 2D interactive multi-ending game for *The Peach Blossom Spring (桃花源记)* (Made by Unity/C#)
