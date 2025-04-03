@@ -10,6 +10,8 @@ redirect_from:
 
 
 This is a gif:A breif view of my 2D interactive multi-ending game
-<img src="../files/TaoHuaYuanJi.gif" alt="Sample_GIF" style="transform: scale(1.5);">
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="../files/TaoHuaYuanJi.gif" alt="Sample_GIF" style="max-width: 100%; height: auto;">
+</div>
 
 <br><br><br>
