@@ -16,7 +16,7 @@ I got my MA degree from [The Education University of Hong Kong](https://www.eduh
 I was also a former K-12 teacher for Chinese Subject; the time in *Hualin Township Central School* with left-behind students and ethnic minority students became an unforgettable memory of mine: below is a photo of my class there.  
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="../files/hualin.jpg" alt="Sample_GIF" style="width: 100%; height: auto;">
+    <img src="../files/hualin.jpg" alt="Sample_GIF" style="width: 80%; height: auto;">
 </div>
 <br>
 ## Projects
