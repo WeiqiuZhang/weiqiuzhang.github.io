@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "MA student at EdUHK & Former Primary School Teacher & Interested in Educational Technology"
+title: "From Education To Educational Research"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,11 +13,11 @@ Hi! I am Weiqiu ZHANG, an enthusiast of Educational Research, in particular EduT
 
 I got my MA degree from [The Education University of Hong Kong](https://www.eduhk.hk/en/), my BA degree from [Northwest Normal University](https://en.wikipedia.org/wiki/Northwest_Normal_University) where I got the *Teacher's Qualification of Senior Secondary School* for China Mainland.
 
-I was also a former K-12 teacher for Chinese Subject; the time in *Hualin Township Central School* with left-behind students and ethnic minority students became an unforgettable memory of mine.
+I was also a former K-12 teacher for Chinese Subject; the time in *Hualin Township Central School* with left-behind students and ethnic minority students became an unforgettable memory of mine: below
 
 ## Projects
 
-### 2D interactive multi-ending game for *The Peach Blossom Spring(桃花源记)* (Made by Unity/C#)
+### 2D interactive multi-ending game for *The Peach Blossom Spring (桃花源记)* (Made by Unity/C#)
 
 By hovering and clicking the mouse, players can gradually unlock story, immersively understanding the background and plot of the game. Below is a gif for a quick preview:
 
