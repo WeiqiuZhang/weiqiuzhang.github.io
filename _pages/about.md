@@ -9,7 +9,7 @@ redirect_from:
 
 ## About me
 
-Hi! I am Weiqiu ZHANG, an enthusiast of Educational Research, in particular EduTech (Educational Technology) and Game-Based Learning.
+Hi! I am Weiqiu ZHANG, an enthusiast of Educational Research, in particular EduTech (Educational Technology) & Game-Based Learning & Community Service Learning.
 
 I got my MA degree from [The Education University of Hong Kong](https://www.eduhk.hk/en/), my BA degree from [Northwest Normal University](https://en.wikipedia.org/wiki/Northwest_Normal_University) where I got the *Teacher's Qualification of Senior Secondary School* for China Mainland.
 
