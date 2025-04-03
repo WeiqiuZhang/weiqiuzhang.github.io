@@ -9,17 +9,18 @@ redirect_from:
 
 ## About me
 
-Hi! I am Weiqiu ZHANG!
+Hi! I am Weiqiu ZHANG, an enthusiast of Educational Research, in particular EduTech (Educational Technology) and Game-Based Learning.
 
 I got my MA degree from [The Education University of Hong Kong](https://www.eduhk.hk/en/), my BA degree from [Northwest Normal University](https://en.wikipedia.org/wiki/Northwest_Normal_University) where I got the *Teacher's Qualification of Senior Secondary School* for China Mainland.
 
-I also served as a K-12 Chinese teacher; the time in Hualin Township Central School with left-behind students and ethnic minority students became an unforgettable memory of mine.
+I was also a former K-12 teacher for Chinese Subject; the time in *Hualin Township Central School* with left-behind students and ethnic minority students became an unforgettable memory of mine.
 
 ## Projects
 
-### 2D Unity game for *The Peach Blossom Spring(桃花源记)*
+### 2D interactive multi-ending game for *The Peach Blossom Spring(桃花源记)* (Made by Unity/C#)
 
-This is a breif view of my first 2D interactive multi-ending game, *The Peach Blossom Spring(桃花源记)*. By hovering and clicking the mouse, players can gradually unlock story, immersively understanding the background and plot of the game.
+By hovering and clicking the mouse, players can gradually unlock story, immersively understanding the background and plot of the game. Below is a gif for a quick preview:
+
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="../files/TaoHuaYuanJi.gif" alt="Sample_GIF" style="width: 100%; height: auto;">
 </div>
