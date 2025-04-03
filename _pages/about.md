@@ -13,6 +13,13 @@ This is a breif view of my first 2D interactive multi-ending game,*Taohuayuanji*
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="../files/TaoHuaYuanJi.gif" alt="Sample_GIF" style="width: 100%; height: auto;">
 </div>
-Here are the endings and extra story:
-南柯一梦:理想社会是否只存在于人们的想象中? Does the **utopian** society only exist in imagination?
+<br>
+Here are the outline of five endings and extra story:  
+不复得路(主结局):人类的欲望与桃花源是否可以兼得?(Main ending:Can human desires and utopian coexist?)
+南柯一梦:理想社会是否只存在于人们的想象中? (Does the utopian society only exist in imagination?)
+雨夜梦醒:外界的介入是否会打破桃花源的资源平衡?(Does external interference threaten the delicate harmony of resources in utopian?)
+大隐隐于世:桃花源的理想与现实生活的妥协。(A balance between the dream of seclusion and the demands of real life.)
+不知有汉:时间与空间的错位造就了认知中的桃花源幻象。
+南阳刘子骥:个人追求与社会舆论的矛盾。(The conflict between personal aspirations and societal opinions.)
+
 <br><br><br>
