@@ -16,7 +16,7 @@ Currently, I have 3 finished research projects, already presented at/under revie
 - This is a follow-up research project of the former CIPP one, focusing on the second aspect of its conclusion: we used the framework of triple helix to analyze the institutional cooperation mechanism in sustainable campuse practices.
 
 <h2> 2D interactive multi-ending game for The Peach Blossom Spring (桃花源记) </h2>
-- The gif and introduction of the finished game (by unity and C#) are shown below, based on which I am working on an [***In Preparation***] work of *The Gamification of Open-Ended Literary Works*.
+- The gif and introduction of the finished game (by unity and C#) are shown below, based on which I am working on an <span style="color: blue;">[In Preparation]</span> work of *The Gamification of Open-Ended Literary Works*.
 - <h3>Game Introduction</h3>
     By hovering and clicking the mouse, players can gradually unlock story, immersively understanding the background and plot of the game. Below is a gif for a quick preview:
     <div style="display: flex; justify-content: center; align-items: center;">
