@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Weiqiu Zhang's personal website"
+title                    : "Click here to home page"
 title_separator          : "-"
 name                     : &name "Weiqiu Zhang"
 description              : &description "MA student at EdUHK"
