@@ -9,10 +9,11 @@ Currently, I have 3 finished research projects, already presented at/under revie
 <h2> Evaluating Sustainable Campuses based on CIPP Model -- a case study between Japan and China’s universities </h2>
 - <span style="color: blue;">Oral Presentation</span> : <a style="color: black;" href="https://iprrfss.com/">International Postgraduate Roundtable and Research Forum cum Summer School (IPRRFSS 2025)</a> EduHK, Hong Kong SAR, 2025 July
 - <a href="https://weiqiuzhang.github.io/files/CIPP.pdf">See PDF version slides here</a>
+- By evaluation with CIPP model, we have found the differences of sustainable campus practices between Osaka University and China University of Petroleum, are originated from three aspects: Cultural Differences in the Interpretation of Sustainability & ***Institutional Structures Shaping Different Sustainability Practices*** & Differences in Balancing Economic, Social, and Ecological Benefits.
 
 <h2> Triple Helix of University–Industry–Government Collaboration in Sustainable Campuses: A Japan–China Comparison </h2>
 - <span style="color: blue;">Under Reviewed by</span> : <a style="color: black;" href="https://www.aera.net/Events-Meetings/Annual-Meeting/2026-Annual-Meeting-Call-for-Paper-and-Session-Submissions">American Educational Research Association (AERA 2026)</a>
-- Short Introduction: A follow-up research project of the former CIPP one. 
+- This is a follow-up research project of the former CIPP one, focusing on the second aspect of its conclusion: we used the framework of triple helix to analyze the institutional cooperation mechanism in sustainable campuse practices.
 
 <h2> 2D interactive multi-ending game for The Peach Blossom Spring (桃花源记) </h2>
 - The gif and introduction of the finished game (by unity and C#) are shown below, based on which I am working on an [***In Preparation***] work of *The Gamification of Open-Ended Literary Works*.
