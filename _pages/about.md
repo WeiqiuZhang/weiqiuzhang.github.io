@@ -9,7 +9,7 @@ redirect_from:
 
 ## *News:* I am currently looking for 26 Spring & Fall PhD Positions!
 
-***Current Research Interests***: Sustainability in Higher Education, EduTech (Game-Based Learning), SDG4-Quality Education 
+***Current Research Interests***: Sustainability in Higher Education, EduTech (Game-Based Learning), SDG4-Quality Education [ -> See my research works ](https://weiqiuzhang.github.io/research/)
 
 ## About me
 
