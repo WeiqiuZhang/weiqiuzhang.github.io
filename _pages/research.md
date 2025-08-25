@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Currently, I have 3 finished research projects, already presented at/under reviewed by/in preparation to submit to international academic conferences.
+Currently, I have 4 finished research projects, already presented at/under reviewed by/in preparation to submit to international academic conferences.
 
 <h2> Evaluating Sustainable Campuses based on CIPP Model -- a case study between Japan and China’s universities </h2>
 - <span style="color: blue;">Oral Presentation</span> : <a style="color: black;" href="https://iprrfss.com/">International Postgraduate Roundtable and Research Forum cum Summer School (IPRRFSS 2025)</a> EduHK, Hong Kong SAR, 2025 July
