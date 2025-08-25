@@ -15,8 +15,9 @@ Currently, I have 3 finished research projects, already presented at/under revie
 - <span style="color: blue;">Under Reviewed by</span> : <a style="color: black;" href="https://www.aera.net/Events-Meetings/Annual-Meeting/2026-Annual-Meeting-Call-for-Paper-and-Session-Submissions">American Educational Research Association (AERA 2026)</a>
 - This is a follow-up research project of the former CIPP one, focusing on the second aspect of its conclusion: we used the framework of triple helix to analyze the institutional cooperation mechanism in sustainable campuse practices.
 
-<h2> 2D interactive multi-ending game for The Peach Blossom Spring (桃花源记) </h2>
-- The gif and introduction of the finished game (by unity and C#) are shown below, based on which I am working on an <span style="color: blue;">[In Preparation]</span> work of *The Gamification of Open-Ended Literary Works*.
+<h2> Game-Based Learning for Classical Chinese: A Theory-Driven Narrative Design in the Age of AI </h2>
+- <span style="color: blue;">[Oral Presentation Accepted]</span> : <a style="color: black;" href="https://www.iclll.org/"> 15th ICLLL</a>
+
 - <h3>Game Introduction</h3>
     By hovering and clicking the mouse, players can gradually unlock story, immersively understanding the background and plot of the game. Below is a gif for a quick preview:
     <div style="display: flex; justify-content: center; align-items: center;">
