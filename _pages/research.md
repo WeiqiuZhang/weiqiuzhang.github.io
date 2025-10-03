@@ -9,15 +9,16 @@ Currently, I have 4 finished research projects, already presented at/under revie
 <h2> Evaluating Sustainable Campuses based on CIPP Model -- a case study between Japan and China’s universities </h2>
 - <span style="color: blue;">Oral Presentation</span> : <a style="color: black;" href="https://iprrfss.com/">International Postgraduate Roundtable and Research Forum cum Summer School (IPRRFSS 2025)</a> EduHK, Hong Kong SAR, 2025 July
 - <a href="https://weiqiuzhang.github.io/files/CIPP.pdf">See PDF version slides here</a>
-- By evaluation with CIPP model, we have found the differences of sustainable campus practices between Osaka University and China University of Petroleum, are originated from three aspects: Cultural Differences in the Interpretation of Sustainability & ***Institutional Structures Shaping Different Sustainability Practices*** & Differences in Balancing Economic, Social, and Ecological Benefits.
+- By evaluation with CIPP model, we have found the differences of sustainable campus practices between Osaka University and China University of Petroleum, are originated from three aspects: ***Cultural Differences in the Interpretation of Sustainability*** & ***Institutional Structures Shaping Different Sustainability Practices*** & Differences in Balancing Economic, Social, and Ecological Benefits.
+
+<h2> From Green Campus to global standards: a comparative study of cultural drivers in sustainable campuses </h2>
+- <span style="color: blue;">[Oral Presentation Accepted]</span> : <a style="color: black;" href="https://www.csaa.org.au/"> Chinese Studies Association of Australia (CSAA 2025)</a>
+- <span style="color: blue;">Under Reviewed by</span> : <a style="color: black;" href="https://conference.cies.us/"> Comparative and International Education Society (CIES 2026)</a>
+- This is a follow-up research project of the former CIPP one, focusing on the first aspect of its conclusion: using the mixed-methods approach to analyze the differences in the development of sustainable campuses in China and internationally from the perspective of cultural origins.
 
 <h2> Triple Helix of University–Industry–Government Collaboration in Sustainable Campuses: A Japan–China Comparison </h2>
 - <span style="color: blue;">Under Reviewed by</span> : <a style="color: black;" href="https://www.aera.net/Events-Meetings/Annual-Meeting/2026-Annual-Meeting-Call-for-Paper-and-Session-Submissions">American Educational Research Association (AERA 2026)</a>
 - This is a follow-up research project of the former CIPP one, focusing on the second aspect of its conclusion: using the framework of triple helix to analyze the institutional cooperation mechanism in sustainable campuse practices.
-
-<h2> From Green Campus to global standards: a comparative study of cultural drivers in sustainable campuses </h2>
-- <span style="color: blue;">Under Reviewed by</span> : <a style="color: black;" href="https://conference.cies.us/"> Comparative and International Education Society (CIES 2026)</a>
-- This is a follow-up research project of the former CIPP one, focusing on the first aspect of its conclusion: using the mixed-methods approach to analyze the differences in the development of sustainable campuses in China and internationally from the perspective of cultural origins.
 
 <h2> Game-Based Learning for Classical Chinese: A Theory-Driven Narrative Design in the Age of AI </h2>
 - <span style="color: blue;">[Oral Presentation Accepted]</span> : <a style="color: black;" href="https://www.iclll.org/"> 15th ICLLL</a>
