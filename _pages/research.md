@@ -13,7 +13,6 @@ Currently, I have 4 finished research projects, already presented at/under revie
 
 <h2> From Green Campus to global standards: a comparative study of cultural drivers in sustainable campuses </h2>
 - <span style="color: blue;">[Oral Presentation Accepted]</span> : <a style="color: black;" href="https://www.csaa.org.au/"> Chinese Studies Association of Australia (CSAA 2025)</a>
-- <span style="color: blue;">Under Reviewed by</span> : <a style="color: black;" href="https://conference.cies.us/"> Comparative and International Education Society (CIES 2026)</a>
 - This is a follow-up research project of the former CIPP one, focusing on the first aspect of its conclusion: using the mixed-methods approach to analyze the differences in the development of sustainable campuses in China and internationally from the perspective of cultural origins.
 
 <h2> Triple Helix of University–Industry–Government Collaboration in Sustainable Campuses: A Japan–China Comparison </h2>
