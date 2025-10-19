@@ -12,6 +12,7 @@ Currently, I have 4 finished research projects, already presented at/under revie
 - By evaluation with CIPP model, we have found the differences of sustainable campus practices between Osaka University and China University of Petroleum, are originated from three aspects: ***Cultural Differences in the Interpretation of Sustainability*** & ***Institutional Structures Shaping Different Sustainability Practices*** & Differences in Balancing Economic, Social, and Ecological Benefits.
 
 <h2> From Green Campus to global standards: a comparative study of cultural drivers in sustainable campuses </h2>
+<span style="color: blue;">[Oral Presentation Accepted]</span> : <a style="color: black;" href="https://cies.us/"> Comparative & International Education Society (CIES 2026)</a>
 - <span style="color: blue;">[Oral Presentation Accepted]</span> : <a style="color: black;" href="https://www.csaa.org.au/"> Chinese Studies Association of Australia (CSAA 2025)</a>
 - This is a follow-up research project of the former CIPP one, focusing on the first aspect of its conclusion: using the mixed-methods approach to analyze the differences in the development of sustainable campuses in China and internationally from the perspective of cultural origins.
 
@@ -20,8 +21,8 @@ Currently, I have 4 finished research projects, already presented at/under revie
 - This is a follow-up research project of the former CIPP one, focusing on the second aspect of its conclusion: using the framework of triple helix to analyze the institutional cooperation mechanism in sustainable campuse practices.
 
 <h2> Game-Based Learning for Classical Chinese: A Theory-Driven Narrative Design in the Age of AI </h2>
+- <span style="color: blue;">[Oral Presentation Accepted]</span> : <a style="color: black;" href="https://eduhknmsmcon.com/"> 2025 The Internation Conference on New Media and Social Media</a>
 - <span style="color: blue;">[Oral Presentation Accepted]</span> : <a style="color: black;" href="https://www.iclll.org/"> 15th ICLLL</a>
-
 - <h3>Game Introduction</h3>
     By hovering and clicking the mouse, players can gradually unlock story, immersively understanding the background and plot of the game. Below is a gif for a quick preview:
     <div style="display: flex; justify-content: center; align-items: center;">
