@@ -22,7 +22,6 @@ Currently, I have 4 finished research projects, already presented at/under revie
 
 <h2> Game-Based Learning for Classical Chinese: A Theory-Driven Narrative Design in the Age of AI </h2>
 - <span style="color: blue;">[Oral Presentation Accepted]</span> : <a style="color: black;" href="https://eduhknmsmcon.com/"> 2025 The Internation Conference on New Media and Social Media</a>
-- <span style="color: blue;">[Oral Presentation Accepted]</span> : <a style="color: black;" href="https://www.iclll.org/"> 15th ICLLL</a>
 - <h3>Game Introduction</h3>
     By hovering and clicking the mouse, players can gradually unlock story, immersively understanding the background and plot of the game. Below is a gif for a quick preview:
     <div style="display: flex; justify-content: center; align-items: center;">
