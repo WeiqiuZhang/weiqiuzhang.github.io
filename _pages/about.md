@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-## *News:* I am currently looking for 26 Spring & Fall PhD Positions!
+## *News:* I am currently looking for 26 PhD Positions!
 
 ***Current Research Interests***: Sustainability in Higher Education, EduTech (Game-Based Learning), SDG4-Quality Education [ -> See my research works ](https://weiqiuzhang.github.io/research/)
 
 ## About me
 
-I got my MA in *Education for Sustainability* from [The Education University of Hong Kong](https://www.eduhk.hk/en/) at 2024. Prior to that, at 2022 I got my BA degree from [Northwest Normal University](https://en.wikipedia.org/wiki/Northwest_Normal_University), during which I got the **China Mainland Senior Secondary School Teacher's Qualification** and by which I passed the **Hong Kong SAR BEd Qualification (Equivalent to Honoured Bachelor of Education)**.
+I got my MA in *Education for Sustainability* from [The Education University of Hong Kong](https://www.eduhk.hk/en/) at 2024. Prior to that, at 2022 I got my BA degree from [Northwest Normal University](https://en.wikipedia.org/wiki/Northwest_Normal_University), during which I got the **China Mainland Senior Secondary School Teacher's Qualification** and by which I gained the **Hong Kong SAR BEd Qualification (Equivalent to Honoured Bachelor of Education)**.
 
 Currently, I serve as a Teaching Assistant at [Hong Kong Metropolitan University](https://www.hkmu.edu.hk/), starting from 2025 Spring Term. Besides, I am also serving as a Remote RA under the guidance of Dr. Ren ***(Xi’an Jiaotong-Liverpool University)***, developing the Parenting Stress Scale for the Elder Generation - Parent
 Generation.

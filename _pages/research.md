@@ -42,4 +42,3 @@ Currently, I have 5 finished research projects, already presented at/under revie
 Chinese </h2>
 - <span style="color: blue;">Under Reviewed by</span> : <a style="color: black;" href="https://www.isls.org/annual-meeting/icls/">2026 ICLS (International Conference of the Learning Sciences)</a>
 - This is a follow-up research of **the former teaching design project**, using sequential exploratory design to classify the narrative features of narrative texts and developing a general gamifying framework for Chinese texts.
-- **Reviewer for 2026 ICLS (International Conference of the Learning Sciences)**
