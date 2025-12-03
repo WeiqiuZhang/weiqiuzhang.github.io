@@ -20,7 +20,7 @@ Currently, I have 5 finished research projects, already presented at/under revie
 - This is a follow-up research of the former CIPP one, focusing on **the second aspect** of its conclusion: conducting a qualitative analysis on the institutional cooperation mechanism in sustainable campuse practices using the Triple-Helix framework.
 
 <h2> Game-Based Learning for Classical Chinese: A Theory-Driven Narrative Design in the Age of AI </h2>
-- This paper originated from my past K-12 teaching design project.
+- This paper originated from my past K-12 teaching design project.- <a href="https://weiqiuzhang.github.io/files/GBL.pdf">See poster here</a>
 - <span style="color: blue;">[Oral Presentation Accepted]</span> : <a style="color: black;" href="https://eduhknmsmcon.com/"> 2025 The Internation Conference on New Media and Social Media</a> EdUHK, Hong Kong SAR, 2025 Nov.
 - <span style="color: blue;">[Poster Presentation Accepted]</span> : <a style="color: black;" href="https://hkier.cuhk.edu.hk/tc/events/cuhk-china-education-forum-cum-msa-conference-2025"> CUHK Chinese Education Forum</a> CUHK, Hong Kong SAR, 2025 Dec.
 - Providing gamification guidelines and technical solutions for narrative classical Chinese texts.
