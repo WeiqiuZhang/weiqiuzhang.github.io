@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Currently, I have 5 finished research projects, already presented at/under reviewed by/in preparation to submit to international academic conferences.
+Currently, I have 4 finished research projects, already presented at/under reviewed by/in preparation to submit to international academic conferences.
 
 <h2> Evaluating Sustainable Campuses based on CIPP Model -- a case study between Japan and China’s universities </h2>
 - <span style="color: blue;">Oral Presentation</span> : <a style="color: black;" href="https://iprrfss.com/">2025 IPRRFSS (International Postgraduate Roundtable and Research Forum cum Summer School)</a> EdUHK, Hong Kong SAR, 2025 Jul.
@@ -16,7 +16,7 @@ Currently, I have 5 finished research projects, already presented at/under revie
 - This is a follow-up research of the former CIPP one, focusing on **the first aspect** of its conclusion: using the mixed-methods approach to analyze the differences in the development of sustainable campuses in China and internationally from the cross-cultural comparative perspective.
 
 <h2> Triple Helix of University–Industry–Government Collaboration in Sustainable Campuses: A Japan–China Comparison </h2>
-- <span style="color: blue;">Under Reviewed by</span> : <a style="color: black;" href="https://www.bera.ac.uk/conference/bera-conference-2026">2026 BERA (British Educational Research Association)</a>
+- <span style="color: blue;">Under Reviewed by</span> : <a style="color: black;" href="https://www.bera.ac.uk/conference/bera-conference-2026">International Journal of Sustainability in Higher Education</a>
 - This is a follow-up research of the former CIPP one, focusing on **the second aspect** of its conclusion: conducting a qualitative analysis on the institutional cooperation mechanism in sustainable campuse practices using the Triple-Helix framework.
 
 <h2> Game-Based Learning for Classical Chinese: A Theory-Driven Narrative Design in the Age of AI </h2>
@@ -37,8 +37,3 @@ Currently, I have 5 finished research projects, already presented at/under revie
     - **大隐隐于世**: 桃花源的理想与现实生活的妥协。(A balance between the dream of seclusion and the demands of real life.)  
     - **不知有汉**: 时空错位催生了海市蜃楼般的桃花源幻想。(The dislocation of time and space creates a mirage-like illusion of the utopian society.)  
     - **南阳刘子骥**: 个人追求与社会舆论的矛盾。(The conflict between personal aspirations and societal opinions.)
-
-<h2> The Narrative Exploration Gamification Design Framework (NEGDF): A Theoretical Framework for Classical
-Chinese </h2>
-- <span style="color: blue;">Under Reviewed by</span> : <a style="color: black;" href="https://www.isls.org/annual-meeting/icls/">2026 ICLS (International Conference of the Learning Sciences)</a>
-- This is a follow-up research of **the former teaching design project**, using sequential exploratory design to classify the narrative features of narrative texts and developing a general gamifying framework for Chinese texts.
