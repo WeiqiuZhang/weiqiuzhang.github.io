@@ -16,7 +16,7 @@ Currently, I have 4 finished research projects, already presented at/under revie
 - This is a follow-up research of the former CIPP one, focusing on **the first aspect** of its conclusion: using the mixed-methods approach to analyze the differences in the development of sustainable campuses in China and internationally from the cross-cultural comparative perspective.
 
 <h2> Triple Helix of University–Industry–Government Collaboration in Sustainable Campuses: A Japan–China Comparison </h2>
-- <span style="color: blue;">Under Reviewed by</span> : <a style="color: black;" href="https://www.bera.ac.uk/conference/bera-conference-2026">International Journal of Sustainability in Higher Education</a>
+- <span style="color: blue;">Under Reviewed by</span> : <a style="color: black;" href="https://www.emeraldgrouppublishing.com/journal/ijshe">International Journal of Sustainability in Higher Education</a>
 - This is a follow-up research of the former CIPP one, focusing on **the second aspect** of its conclusion: conducting a qualitative analysis on the institutional cooperation mechanism in sustainable campuse practices using the Triple-Helix framework.
 
 <h2> Game-Based Learning for Classical Chinese: A Theory-Driven Narrative Design in the Age of AI </h2>
