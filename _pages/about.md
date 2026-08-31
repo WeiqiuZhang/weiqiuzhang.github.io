@@ -10,7 +10,7 @@ redirect_from:
 ***Current Research Interests***: Sustainability in Higher Education, EduTech (Game-Based Learning), SDG4-Quality Education [ -> See my research works ](https://weiqiuzhang.github.io/research/)
 
 ## About me
-Before my PhD study in the University of Minnesota, I served as a Teaching Assistant at [Hong Kong Metropolitan University](https://www.hkmu.edu.hk/), starting from 2025 Spring Term. Besides, I also served as a RA under the guidance of Dr. Ren ***(Xi’an Jiaotong-Liverpool University)***, developing the Parenting Stress Scale for the Elder Generation - Parent Generation.
+Before my PhD study in the ([University of Minnesota](https://twin-cities.umn.edu/)), I served as a Teaching Assistant at [Hong Kong Metropolitan University](https://www.hkmu.edu.hk/), starting from 2025 Spring Term. Besides, I also served as a RA under the guidance of Dr. Ren ***(Xi’an Jiaotong-Liverpool University)***, developing the Parenting Stress Scale for the Elder Generation - Parent Generation.
 
 I got my MA in *Education for Sustainability* from [The Education University of Hong Kong](https://www.eduhk.hk/en/) at 2024. Prior to that, at 2022 I got my BA degree from [Northwest Normal University](https://en.wikipedia.org/wiki/Northwest_Normal_University), during which I got the **China Mainland Senior Secondary School Teacher's Qualification** and by which I gained the **Hong Kong SAR BEd Qualification (Equivalent to Honoured Bachelor of Education)**.
 
