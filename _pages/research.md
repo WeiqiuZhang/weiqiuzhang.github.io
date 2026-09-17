@@ -13,11 +13,14 @@ Currently, I have 4 finished research projects, already presented at/under revie
 
 <h2> From Green Campus to global standards: a comparative study of cultural drivers in sustainable campuses </h2>
 - <span style="color: blue;">[Oral Presentation Accepted]</span> : <a style="color: black;" href="https://cies.us/"> 2026 CIES (Comparative & International Education Society)</a>
-- This is a follow-up research of the former CIPP one, focusing on **the first aspect** of its conclusion: using the mixed-methods approach to analyze the differences in the development of sustainable campuses in China and internationally from the cross-cultural comparative perspective.
+- This is a follow-up research of the former CIPP one, focusing on **the first aspect** of its conclusion: applying the mixed-methods approach to explore what differences exist between global
+and local framework and why can’t global sustainability rankings fully capture local practices and context.
 
-<h2> Triple Helix of University–Industry–Government Collaboration in Sustainable Campuses: A Japan–China Comparison </h2>
+<h2> Understanding Sustainable Campus Collaboration through the Triple Helix Twins: A Comparative Study
+of the Yangtze River Delta and Kansai </h2>
 - <span style="color: blue;">Under Reviewed by</span> : <a style="color: black;" href="https://www.emeraldgrouppublishing.com/journal/ijshe">International Journal of Sustainability in Higher Education</a>
-- This is a follow-up research of the former CIPP one, focusing on **the second aspect** of its conclusion: conducting a qualitative analysis on the institutional cooperation mechanism in sustainable campuse practices using the Triple-Helix framework.
+- This is a follow-up research of the former CIPP one, focusing on **the second aspect** of its conclusion: conducting a qualitative analysis on the institutional cooperation
+mechanism in sustainable campus practices using the Triple Helix Twins framework.
 
 <h2> Game-Based Learning for Classical Chinese: A Theory-Driven Narrative Design in the Age of AI </h2>
 - This paper originated from my past K-12 teaching design project.- <a href="https://weiqiuzhang.github.io/files/GBL.pdf">See poster here</a>
