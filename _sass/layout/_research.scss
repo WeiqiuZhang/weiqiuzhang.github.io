@@ -91,15 +91,12 @@
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 2rem;
     margin-top: 3rem;
-    border-top: 1px solid var(--research-rule);
   }
 
   .research-map a {
-    display: grid;
-    grid-template-columns: 2rem minmax(0, 1fr);
-    gap: 0.75rem;
+    display: block;
     padding-top: 1rem;
-    color: inherit;
+    color: var(--research-accent);
     text-decoration: none;
 
     &:hover strong {
@@ -142,9 +139,7 @@
   }
 
   .research-stream__header {
-    display: grid;
-    grid-template-columns: 3.25rem minmax(0, 1fr);
-    gap: 1rem;
+    display: block;
     margin-bottom: 2rem;
 
     h2 {
@@ -227,9 +222,7 @@
   .research-project__header {
     grid-column: 1;
     grid-row: 1 / span 2;
-    display: grid;
-    grid-template-columns: 2rem minmax(0, 1fr);
-    gap: 0.75rem;
+    display: block;
     align-content: start;
 
     h3 {
@@ -291,7 +284,6 @@
     grid-column: 1 / -1;
     margin-top: 3rem;
     padding-top: 2.5rem;
-    border-top: 1px solid var(--research-rule);
 
     h4 {
       margin: 0 0 0.9rem;

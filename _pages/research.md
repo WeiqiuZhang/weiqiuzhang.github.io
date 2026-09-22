@@ -17,13 +17,11 @@ body_class: research-layout
 
 <nav class="research-map" aria-label="Research areas">
   <a href="#higher-education-systems-and-policy">
-    <span class="research-map__number">01</span>
     <span class="research-map__text">
       <strong>Higher Education Systems &amp; Policy</strong>
     </span>
   </a>
   <a href="#educational-practice-and-learning-design">
-    <span class="research-map__number">02</span>
     <span class="research-map__text">
       <strong>Educational Practice &amp; Learning Design</strong>
     </span>
@@ -35,7 +33,6 @@ body_class: research-layout
 <section class="research-stream" aria-labelledby="higher-education-systems-and-policy" markdown="1">
 
 <header class="research-stream__header">
-  <span class="research-stream__number">01</span>
   <div>
     <h2 id="higher-education-systems-and-policy">Higher Education Systems &amp; Policy</h2>
   </div>
@@ -50,7 +47,6 @@ body_class: research-layout
 <article class="research-project" aria-labelledby="research-cipp" markdown="1">
 
 <header class="research-project__header">
-  <span class="research-project__number">01</span>
   <h3 id="research-cipp">Evaluating Sustainable Campuses based on CIPP Model -- a case study between Japan and China’s universities</h3>
 </header>
 
@@ -67,7 +63,6 @@ By evaluation with CIPP model, we have found the differences of sustainable camp
 <article class="research-project" aria-labelledby="research-cultural-drivers" markdown="1">
 
 <header class="research-project__header">
-  <span class="research-project__number">02</span>
   <h3 id="research-cultural-drivers">From Green Campus to global standards: a comparative study of cultural drivers in sustainable campuses</h3>
 </header>
 
@@ -83,7 +78,6 @@ This is a follow-up research of the former CIPP one, focusing on **the first asp
 <article class="research-project" aria-labelledby="research-triple-helix" markdown="1">
 
 <header class="research-project__header">
-  <span class="research-project__number">03</span>
   <h3 id="research-triple-helix">Understanding Sustainable Campus Collaboration through the Triple Helix Twins: A Comparative Study of the Yangtze River Delta and Kansai</h3>
 </header>
 
@@ -101,7 +95,6 @@ This is a follow-up research of the former CIPP one, focusing on **the second as
 <section class="research-stream" aria-labelledby="educational-practice-and-learning-design" markdown="1">
 
 <header class="research-stream__header">
-  <span class="research-stream__number">02</span>
   <div>
     <h2 id="educational-practice-and-learning-design">Educational Practice &amp; Learning Design</h2>
   </div>
@@ -110,7 +103,6 @@ This is a follow-up research of the former CIPP one, focusing on **the second as
 <article class="research-project research-project--game" aria-labelledby="research-game-based-learning" markdown="1">
 
 <header class="research-project__header">
-  <span class="research-project__number">04</span>
   <h3 id="research-game-based-learning">Game-Based Learning for Classical Chinese: A Theory-Driven Narrative Design in the Age of AI</h3>
 </header>
 
